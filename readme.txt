@@ -1,1 +1,1 @@
-This is demo of using Git
+Git is distributed version control system.
